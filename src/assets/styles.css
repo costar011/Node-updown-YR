@@ -21,7 +21,14 @@ body {
   width: 730px;
   height: 5vh;
 
-  background-color: blue;
+  background-color: #ffcccc;
+}
+
+.lay .lay__col .lay__col1__main {
+  width: 100%;
+  height: 100vh;
+
+  background-color: #7efff5;
 }
 
 .lay .lay__col .lay__col2 {
@@ -33,5 +40,12 @@ body {
   width: 730px;
   height: 5vh;
 
-  background-color: violet;
+  background-color: #ffb8b8;
+}
+
+.lay .lay__col2 .lay__col2__main {
+  width: 100%;
+  height: 100vh;
+
+  background-color: #67e6dc;
 }
