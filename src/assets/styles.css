@@ -32,4 +32,6 @@ body {
 .lay .lay__col2 .lay__col2__top {
   width: 730px;
   height: 5vh;
+
+  background-color: violet;
 }
